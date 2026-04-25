@@ -1,0 +1,1 @@
+"# research-autovidai"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/j5b4y3r/research-autovidai.gitgit push -u origin main
